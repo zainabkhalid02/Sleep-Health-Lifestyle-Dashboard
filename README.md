@@ -2,7 +2,7 @@
 
 ### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiN2NkNjIzMzAtNTUwMy00NTQyLWEwZTEtNGQyYjg4MzQwZGIyIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
 
-
+<img width="706" alt="Sleep Health and Lifestyle Dashboard" src="https://github.com/user-attachments/assets/b2b423c1-625b-4ec6-8148-88b862f01866">
 
 ## Dashboard Overview
 
